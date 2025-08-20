@@ -3,8 +3,8 @@
 **Ì±§ Desarrollador**: LuyerPerez
 **Ì≥ß Email**: luyerperez0@gmail.com
 **ÔøΩ Privacidad**: Email configurado seg√∫n mejores pr√°cticas de GitHub
-**ÔøΩÌ≥Ö Fecha de creaci√≥n**: 2025-08-20 17:49:40
-**Ì≥Ç Ruta del proyecto**: /d/sena/TRI-3/3147247-Perez-Luyer-fastAPI-semana1/mi-primera-api-fastapi
+**ÔøΩÌ≥Ö Fecha de creaci√≥n**: 2025-08-20 18:13:51
+**Ì≥Ç Ruta del proyecto**: /d/Sena/TRI-3/3147247-Perez-Luyer-fastAPI-semana1/mi-primera-api-fastapi
 **Ì≤ª Equipo de trabajo**: Luyer
 
 ## Ì¥ß Configuraci√≥n Local
